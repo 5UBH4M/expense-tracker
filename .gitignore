@@ -43,3 +43,16 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Keystores and sensitive files
+*.keystore
+*.jks
+.env
+
+# Platform ephemeral files
+windows/flutter/ephemeral/
+windows/flutter/generated_plugins.cmake
+linux/flutter/ephemeral/
+linux/flutter/generated_plugins.cmake
+macos/Flutter/ephemeral/
+macos/Flutter/GeneratedPluginRegistrant.swift
