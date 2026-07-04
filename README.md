@@ -34,8 +34,6 @@ A modern, beautiful, and fully persistent **Flutter Expense Tracker** built with
 
 # 📸 Screenshots
 
-> Add your screenshots here.
-
 | Home | Add Expense | Analytics | Dark Mode |
 |------|-------------|-----------|-----------|
 | Screenshot | Screenshot | Screenshot | Screenshot |
@@ -94,7 +92,7 @@ lib/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/5UBH4M/expense-tracker.git
 cd expense-tracker
 ```
 
